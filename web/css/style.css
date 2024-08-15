@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 25, 2024, 12:57:24 PM
+    Author     : kalin
+*/
+
+/* theme */
+.bg-cl1{background-color: #425F57;}
+.f-cl1{color: #425F57;}
+body{
+    background-color: #e6e9ed;
+    font-family: Poppins;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* Home */
+.text-1{font-weight: 700; }
+
+.text-label{font-size: 10pt; color: #74777a;}
+.add-img{height: 200px; object-fit: cover; width: 300px;}
+
+.add-text-1{font-size: 18pt; font-weight: 700; color: black;}
+.add-text-2{font-size: 12pt; }
+.add-text-3{font-size: 12pt; color: #74777a;}
+.add-text-4{font-size: 15pt; font-weight: 700; }
+.add-text-5{font-size: 10pt; font-weight: 1000; }
+.add-div{background-color: #f0ede4; border: 2px solid #faeaac;}
+
+
+/* Advert */
+.img1{height: 500px; object-fit: cover;}
+.advert h2{font-size: 18pt;}
+.advert h1{font-size: 22pt; font-weight: 700; color: black;}
+.advert .price{font-size: 18pt; font-weight: 700; }
+.advert .desc{font-size: 12pt; color: gray; font-family: Poppins; padding: 0px;}
+.advert .tel{font-size: 15pt; color: gray;}
+.advert .alart{border: 1px solid blue;}
+.advert h3 {font-size: 12pt; font-weight: 700; }
+.advert .alart-p{font-size: 10pt; color: gray;}
+
+/* Footer */
+.footer{position: absolute; bottom: 0;}
+body{position: relative;min-height: 100%; padding-bottom: 14rem;}
+html{height: 100%;}
+
+.fafaicon{
+    font-size: 30px;
+}
+
+.fafaicon a{
+    margin: 10px;
+}
+
+.about-us h1{
+    font-weight: bold; 
+    font-size: 50px;
+}
+
+.about-us h2{
+    font-size: 25px; 
+    font-weight: bold;
+}
+.about-us p{
+    color: gray;
+}
+.about-us ul{
+    color: gray;
+}
